@@ -1,0 +1,8 @@
+news.bluestacks.cn.
+operation.bluestacks.cn.
+oss.bluestacks.cn.
+preview.bluestacks.cn.
+preview-bscn.bluestacks.cn.
+preview-checkout.bluestacks.cn.
+preview-game-console.bluestacks.cn.
+preview-gametv.bluestacks.cn.
